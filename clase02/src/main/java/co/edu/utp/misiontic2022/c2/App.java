@@ -1,13 +1,12 @@
 package co.edu.utp.misiontic2022.c2;
 
-/**
- * Hello world!
- *
- */
+import java.util.Scanner;
+import co.edu.utp.misiontic2022.c2.ejer1;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        ejer1.main(args);
     }
 }
